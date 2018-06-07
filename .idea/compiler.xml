@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="demo-config-client" />
+        <module name="demo-config-server" />
+        <module name="demo-eureka" />
+        <module name="demo-eureka-service-hi" />
+        <module name="demo-service-feign" />
+        <module name="demo-service-hi" />
+        <module name="demo-service-ribbon" />
+        <module name="demo-service-zuul" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
